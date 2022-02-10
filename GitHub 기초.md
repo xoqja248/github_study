@@ -4,7 +4,7 @@
 
 ## 1. Git 초기 설정 
 
-1.   커밋 기록을 확인하기 위한 이름과 이메일을 설정
+1.   커밋 기록을 확인하기 위한 이름과 이메일을 설정한다.
 
     ```bash
     $ git config --global user.name "UserName"
