@@ -8,8 +8,11 @@
 
     ```bash
     $ git config --global user.name "UserName"
+    
     $ git config --global user.email "EmailAdress"
     ```
+    
+    
 
 
 
